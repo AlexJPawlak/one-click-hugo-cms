@@ -2,7 +2,7 @@
 title: Rodzinne ogrody działkowe - Waszyngtona
 date: 2019-06-29T14:04:10.000Z
 description: Rodzinne ogrody działkowe w Warszawie przy ulicy Waszyngtona
-image: /img/about-single-origin.jpg
+image: /img/ogróddziałkowy.jpg
 ---
 
 This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts\*.
